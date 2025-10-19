@@ -89,3 +89,6 @@ Fully automate captcha solving with improved OCR.
 Allow dynamic date input.
 
 Add logging and error handling for failed submissions.
+  
+> The default date is **27-10-2025** because courts resume work on this day after Diwali. Output files will always reflect the latest available cause list.
+
